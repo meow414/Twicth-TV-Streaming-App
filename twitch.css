@@ -1,0 +1,49 @@
+.yo {
+  background-color: #0C545C;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 60%;
+}
+
+.image {
+  width: 7%;
+  border-radius: 50%;
+  float: left;
+}
+
+h4 {
+  margin-left: 2%;
+  //float:left;
+}
+
+.onlinestatus {
+  color: #71BA51;
+}
+
+.offlinestatus {
+  color: #67686B;
+}
+
+.closedstatus {
+  color: #223242;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.onlinestatus:hover {
+  color: #71BA51;
+}
+
+a:hover {
+  color: #161D29;
+}
+
+a {
+  color: #161D29;
+}
+
+#terminate {
+  color: #373746;
+}
